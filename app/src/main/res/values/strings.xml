@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TemplateMatching</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_OpenGallary">Open Gallary</string>
+    <string name="action_HL">HoughTransformation</string>
+    <string name="action_sobel">Sobel</string>
+    <string name="action_canny">Canny Edge</string>
+    <string name="action_CHT">Hough Circle</string>
+    <string name="action_Color">Color Detection</string>
+</resources>

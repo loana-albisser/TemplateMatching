@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hslu.bda.templatematching.MainActivity">
+    <item
+        android:id="@+id/action_openGallary"
+        android:title="@string/action_OpenGallary"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sobel"
+        android:title="@string/action_sobel"/>
+    <item
+        android:id="@+id/action_canny"
+        android:title="@string/action_canny"/>
+    <item android:id="@+id/action_HTL"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/action_HL"/>
+    <item android:id="@+id/action_CHT"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/action_CHT"/>
+    <item android:id="@+id/action_Color"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/action_Color"/>
+</menu>
